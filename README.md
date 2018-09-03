@@ -17,13 +17,9 @@ Output:
 • Count of live cells after nth iterations Example demonstration of how iteration in Game of Life looks like below:
 • Initial Grid
 | 0 1 1 1 0 |
-
 | 0 0 0 0 0 |
-
 | 0 1 1 1 0 |
-
 | 0 0 0 0 0 |
-
 | 0 0 0 0 0 |
 • Result after 1 iteration
 | 0 0 1 0 0 |
