@@ -3,6 +3,12 @@
 Overview:
 Game of life is a sample simulation game where it is initially given a square grid of cells and will compute what the resulting life would look like after ‘n’ number of iterations.
 
+
+I have provided two solutions along with the read me file: 
+GameOfLife_Solution1- In this solution I have hardcoded the Initial Grid.
+GameOfLife_Solution2- This solution takes user inputs for the Initial Grid.
+
+
 Rules:
 1. Any live cell with fewer than two live neighbors dies, as if caused by under-population.
 2. Any live cell with two or three live neighbors lives on to the next generation.
